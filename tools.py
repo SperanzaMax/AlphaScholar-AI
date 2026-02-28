@@ -1,7 +1,7 @@
 """
 AlphaScholar Research Optimizer
 The "Frankenstein" of elite AI models, tuned for flawless scientific orchestration.
-Created by Maxi & an orchestrated hive-mind of LLMs (Claude, DeepSeek, ChatGPT, Kimi, Qwen, Gemini, Grock).
+Created by SperanzaMax & an orchestrated hive-mind of LLMs (Claude, DeepSeek, ChatGPT, Kimi, Qwen, Gemini, Grock).
 """
 
 import json
