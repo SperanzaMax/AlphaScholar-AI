@@ -7,10 +7,10 @@ The ultimate goal? **High-speed, comprehensive, zero-token-cost literature revie
 
 ##  The Origin Story: A True AI Hive-Mind Collaboration
 
-This skill wasn't built by a human alone. It was designed, engineered, and optimized by a unique collaborative effort between **Maxi** (Human "Principal Investigator" & OpenClaw Architect) and an elite council of LLMs!
+This skill wasn't built by a human alone. It was designed, engineered, and optimized by a unique collaborative effort between **SperanzaMax** (Human "Principal Investigator" & OpenClaw Architect) and an elite council of LLMs!
 
  **Credits & Contributions:**
-*   **Maxi (Creator & Orchestrator):**. The architectural vision of the "Director vs. Interns" layout, and established the ruthless logic of zero-token-spend for heavy academic reading.
+*   **SperanzaMax (Creator & Orchestrator):**. The architectural vision of the "Director vs. Interns" layout, and established the ruthless logic of zero-token-spend for heavy academic reading.
 *   **Claude:** Contributed the **Armor & Architecture**. It built the flawless defensive programming structure, the `TokenBudget` tracker, explicit typing, and anti-prompt-injection mechanisms.
 *   **DeepSeek:** Contributed the **Speed**. It pointed out that sequential paper processing was too slow and rewrote the dispatch logic using `asyncio` and `ThreadPoolExecutors` for concurrent execution.
 *   **OpenAI (ChatGPT):** Suggested the core structure for the `delegate_to_intern` system and JSON schema validation.
