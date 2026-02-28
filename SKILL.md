@@ -2,7 +2,7 @@
 name: AlphaScholar-Research-Optimizer
 display_name: AlphaScholar Elite Researcher
 version: 1.0.0
-author: Maxi & The AI Hive-Mind (Claude, DeepSeek, ChatGPT, Qwen, Kimi, Grock, Gemini)
+author: SperanzaMax & The AI Hive-Mind (Claude, DeepSeek, ChatGPT, Qwen, Kimi, Grock, Gemini)
 category: scientific_research
 tags: ["pubmed", "arxiv", "rag", "delegation", "async", "token-optimization", "bioinformatics"]
 description: |
